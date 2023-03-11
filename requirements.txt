@@ -1,0 +1,2 @@
+python-telegram-bot==13.12
+pymorphy2==0.9.3
